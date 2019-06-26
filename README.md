@@ -10,7 +10,7 @@ The objective of this project is wrangling WeRateDog Twitter Archive data to dra
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install libraries.
 
 ```bash
 python3   -m pip install Package_name
